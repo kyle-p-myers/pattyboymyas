@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pattyboymyas
+
 - 👀 I’m interested in space, tech, tacos
 - 🌱 I’m currently learning software development
 
